@@ -131,7 +131,7 @@ button img {
 select {
     flex: 1;
     padding: 0 20px;
-    background: #0d4b3f; /* Biru Laut */
+    background: #126b59; /* Biru Laut */
     color: #fff;
     height: 60px;
     border: 0;
@@ -158,3 +158,10 @@ select {
         width: 100%;
     }
 }
+.text {
+    position: fixed; /* Gunakan fixed atau absolute tergantung kebutuhan */
+    right: 10px; /* Jarak dari kanan */
+    bottom: 10px; /* Jarak dari bawah */
+    font-size: 12px; /* Ukuran font */
+    color: #a7b1aa; /* Warna teks, sesuaikan sesuai kebutuhan */
+  }
