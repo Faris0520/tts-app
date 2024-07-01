@@ -1,6 +1,6 @@
 # Text to Speech Website
 
-Link : https://tts-app-tawny.vercel.app/
+Link : https://tts.parriz.my.id
 
 
 <img src="image.png" width="70%">
